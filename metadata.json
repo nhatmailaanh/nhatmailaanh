@@ -1,0 +1,5 @@
+{
+  "name": "TikTok Live SafeControl",
+  "description": "A dashboard for real estate sales teams to manage content safety, script generation, and violation logging during TikTok Live sessions, powered by Gemini.",
+  "requestFramePermissions": []
+}
